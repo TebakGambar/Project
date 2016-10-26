@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_569105a388541c67493b85e457345a72b6e0d0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_6e8e29b7a137eca64bf7516e2e4e3516247cf197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_49670751369fc76b9e452f91cbc355713eb70c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed2a0de30cf3f7a4bcaa7d989dc8f4a0e6f12813">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\instant-run_e4069e3344477e2b8bfc97bfd5be1b2c83a745e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a011394a6faa536a0ca4bae85246dbed301a36e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_752e0c9ef0c6f9f947062e1113826cf8509e491c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_8073e7d861d3ea681a9f1037f4cab10e0a177383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_20d32a6ba36646ec1e3187a0e185a5b050a1fa55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ff978c0d0a74b0e89dd6b644fc9fdb4c4d015c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_450c68d1463f9321975f2de34bc7d0e955e0de5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2b52d46d71700b8a19dba47372a5d37b8f93cdf">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d98ff85fe4b8991ef0e6760c5e709c9ec9fb2e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_50e180cf1392af48706955a9c591e2c474c6dcc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_165130eb118873485f6548b46ef2e6dcf937ce20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_633708919e43c252483c337d6a392e5be2000c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_9ac7f675d0380cd7ab1fac88e6a9f877b5537ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\prj\TebakGambar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Android\prj\TebakGambar\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9255d750c322adca9d8d2e1213712f50fc1200fc.jar" />
+    </item>
+
+</items>
